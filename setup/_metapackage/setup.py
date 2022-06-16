@@ -23,10 +23,12 @@ setuptools.setup(
         'odoo13-addon-sale_operating_unit',
         'odoo13-addon-sale_operating_unit_sequence',
         'odoo13-addon-sales_team_operating_unit',
+        'odoo13-addon-stock_account_operating_unit',
         'odoo13-addon-stock_operating_unit',
     ],
     classifiers=[
         'Programming Language :: Python',
         'Framework :: Odoo',
+        'Framework :: Odoo :: 13.0',
     ]
 )
